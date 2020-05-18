@@ -3,7 +3,7 @@ Spline utility plugin for Unreal Engine 4
 
 ## Installation:
 
-Copy the root folder ("FlexPline") into your project's plugin folder.
+Copy the root folder ("FlexSpline") into your project's plugin folder.
 
 Inside the editor check under "Edit->Plugins->Project->Spline" whether it has been successfully installed.
 
