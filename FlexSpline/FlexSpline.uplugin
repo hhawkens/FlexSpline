@@ -1,0 +1,31 @@
+{
+	"FileVersion": 3,
+	"Version": 2500,
+	"VersionName": "25.0.0",
+	"EngineVersion": "4.25.0",
+	"FriendlyName": "Flex Spline",
+	"Description": "Powerful and Generic Spline System Creation Tool",
+	"Category": "Spline",
+	"CreatedBy": "Oliver",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/4a4c555850db4d3d9910f6bad7557e93",
+	"SupportURL": "",
+	"EnabledByDefault": true,
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": true,
+	"WhitelistPlatforms": [ "Win64", "Win32"],
+	"Modules": [
+		{
+			"Name": "FlexSpline",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault"
+		},
+		{
+			"Name": "FlexSplineDetails",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
